@@ -5,7 +5,7 @@ Well, I write code recreationally, and this is yet another language
 that I'll probably never finish.
 
 
-Have a look at the (code)[code] file to see what I'm up to.
+Have a look at the [code](code) file to see what I'm up to.
 Here's what it was at the time of writing:
 
 
