@@ -3,19 +3,18 @@ a : Int;
 a = 0;
 
 b : Int;
-b a b c = 0x101;
+b a b c = 0x1AF;
 
 c = '\n ;
 d = "foo bar\"";
 
+e = 0b010101 ;
+
 a : ∀ a b c. ∃ d. Either a (∃ x. f b) c;
 
-Foo : Type;
 
-
-
+List : Type;
 List a = Nil | Cons a (List a) ;
-
 
 
 Yoneda f a = Yoneda (∀ b. Arr (Arr a b) (f b))
