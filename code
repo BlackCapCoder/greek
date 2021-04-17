@@ -1,0 +1,25 @@
+
+a : Int;
+a = 0;
+
+b : Int;
+b a b c = 0x101;
+
+c = '\n ;
+d = "foo bar\"";
+
+a : ∀ a b c. ∃ d. Either a (∃ x. f b) c;
+
+Foo : Type;
+
+
+
+List a = Nil | Cons a (List a) ;
+
+
+
+Yoneda f a = Yoneda (∀ b. Arr (Arr a b) (f b))
+;
+
+
+-- vi:syntax=haskell
